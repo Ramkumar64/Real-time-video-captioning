@@ -8,17 +8,29 @@ The project contains code for training models, preparing datasets, and running i
 
 Repository Structure
 Real-time-video-captioning/
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── main.py
+
 ├── main_1.py
+
 ├── main_2.py
+
 ├── gan_nl.py
+
 ├── chk.py
+
 ├── prepare_flickr8k.py
+
 ├── train (1).ipynb
+
 ├── discriminator_now.pth
+
 ├── generator_now.pth
+
 
 Installation
 
@@ -90,3 +102,4 @@ Specify your project license here (example: MIT License).
 Contribution
 
 Contributions, issues, and suggestions are welcome. Add details for how you prefer contributions to be made (e.g., via pull requests).
+
